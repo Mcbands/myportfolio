@@ -33,7 +33,7 @@ EMAIL_HOST_USER = 'fpgraphixx@gmail.com'
 EMAIL_HOST_PASSWORD = 'puhi tyki vtkj qdgw'
 EMAIL_USE_TLS = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [' .vercel.app' ]
 
 
 
